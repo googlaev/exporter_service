@@ -1,6 +1,6 @@
 # exporter_service
 exporter_service
-go```
+```
 
 package main
 
